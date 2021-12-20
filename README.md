@@ -11,7 +11,8 @@ To prepare Pelett Hackard for the upcoming "silver tsunami", this analysis was c
 
 * The most number of retiring employees have the title Senior Engineer (see below).
 * The least number of retiring employees have the title Manager (see below)
-  ![.](https://github.com/SBaig01/Pewlett-Hackard-Analysis/blob/09ed82a09839c9745e1816d19d53ba888907d754/Retiring%20Titles.png)
+  
+  ![](https://github.com/SBaig01/Pewlett-Hackard-Analysis/blob/09ed82a09839c9745e1816d19d53ba888907d754/Retiring%20Titles.png)
 
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
